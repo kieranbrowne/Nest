@@ -1,0 +1,14 @@
+NJMH - Generative Film
+November 2013
+
+Based on "Islamic Stars" by Jim Bumgardner (KrazyDad), licensed under Creative Commons Attribution-Share Alike 3.0 and GNU GPL license.
+Work: http://openprocessing.org/visuals/?visualID= 1261	
+License: 
+http://creativecommons.org/licenses/by-sa/3.0/
+http://creativecommons.org/licenses/GPL/2.0/
+
+Njmh was generated from what was primarily visual tweaks on Jim Bumgardner's 
+code. My version of has been lost, however Jim's explains most of how the
+film functioned. Instead of Jim's mouse driven app movement of the patterns 
+was controlled by two out of sync sine waves. To run the code I downloaded a
+version of processing from 2011 so I could still use the antiquated Vector class.
