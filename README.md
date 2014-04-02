@@ -22,7 +22,7 @@ for example examines ideas of organicism pioneered by Ancient Greek philosopher,
 inherits the visual imagery of contemporary science, particularly galaxy structures and microscopic 
 imagery.  'Toward nothing' represents the "Big Freeze" theory in cosmology which hypothesises that 
 the universe will continue expanding and cooling at an accelerating rate until it becomes too cold to 
-sustain life.  'Njem' references the repetitive imagery of Islamic geometric patterns.  For Muslims, 
+sustain life.  'Njmh' references the repetitive imagery of Islamic geometric patterns.  For Muslims, 
 these patterns symbolise infinity, extending beyond the material world in the same way as God.  
 'Nest' is not so much passing a judgement or asking comparison of the three representations so much 
 as highlighting the desire to understand the universe as a cross-cultural element of humananity.
