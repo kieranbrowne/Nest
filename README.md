@@ -3,9 +3,9 @@ Nest
 
 Generative Film in Three Parts/Channels
 
-'Living, breathing' - http://youtu.be/CHE0W_F1JyM
-'Toward nothing' - http://youtu.be/jfQ1ckxZFo4
-'Njmh' - http://youtu.be/0KtIFy7wqoQ
+[![Living, breathing](https://40.media.tumblr.com/625927b7f0985e433149f0271e008470/tumblr_nlzx2podHu1r0bfx2o1_1280.png)](http://youtu.be/CHE0W_F1JyM)
+[![Toward nothing](https://40.media.tumblr.com/0417bef0cd31dc18e948d9c2f6e0cde4/tumblr_nlzx2podHu1r0bfx2o2_1280.png)](http://youtu.be/jfQ1ckxZFo4)
+[![Njmh](https://41.media.tumblr.com/f4453bccf9dcc2bb8aede1a047a7f52e/tumblr_nlzx2podHu1r0bfx2o3_1280.png)](http://youtu.be/0KtIFy7wqoQ)
 
 
 'Nest' is a short film/animation in 3 channels.  Its imagery has been created algorithmically rather than 
