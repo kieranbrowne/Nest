@@ -22,7 +22,7 @@ the universe will continue expanding and cooling at an accelerating rate until i
 sustain life.  'Njmh' references the repetitive imagery of Islamic geometric patterns.  For Muslims, 
 these patterns symbolise infinity, extending beyond the material world in the same way as God.  
 'Nest' is not so much passing a judgement or asking comparison of the three representations so much 
-as highlighting the desire to understand the universe as a cross-cultural element of humananity.
+as highlighting the desire to understand the universe as a cross-cultural element of humanity.
 
 I find software to be a potent medium for engaging with ideas of the universe.   In the physical world 
 complexity emerges out of innumerable iterations of a few simple rules and algorithms.  The same is 
